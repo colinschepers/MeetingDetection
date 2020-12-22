@@ -1,0 +1,6 @@
+.vscode/
+data/
+venv/
+
+__pycache__
+.p[oc]
